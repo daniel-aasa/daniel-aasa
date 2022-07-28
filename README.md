@@ -3,7 +3,7 @@
 - 🌱 I’m currently into cloud Development,Web development and Machine learning.
 - My major stacks are AWS, Azure, CI/CD, Docker, Kubernetes, Linux, Git
 - 💞️ I’m looking to collaborate working on a variety of technologies including AWS, Azure, Google cloud, Data Science, Web Development.
-- 💬 Ask me about anything Cloud deployment and automation.
+- 💬 Ask me about anything in Cloud deployment and automation.
 - 📫 You can reach me on aasaoluwagbemiga@gmail.com
 - I love playing Chess and creative art.
 <!--
