@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Aasa
 - 👀 I’m interested in Cloud Development,Machine learning and Web development. 
 - 🌱 I’m currently into cloud Development,Web development and Machine learning.
-- My major stacks are AWS, Azure, CI/CD, Docker, Kubernetes, Linux, Git
+- My major stacks are AWS, Azure, GCP, CI/CD, Docker, Kubernetes, Linux, Git
 - 💞️ I’m looking to collaborate working on a variety of technologies including AWS, Azure, Google cloud, Data Science, Web Development.
 - 💬 Ask me about anything in Cloud deployment and automation.
 - 📫 You can reach me on aasaoluwagbemiga@gmail.com
