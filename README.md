@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Daniel Aasa
-- 👀 I’m interested in Cloud Development,Machine learning and Web development. 
-- 🌱 I’m currently into cloud Development,Web development and Machine learning.
-- My major stacks are AWS, Azure, GCP, CI/CD, Docker, Kubernetes, Linux, Git
-- 💞️ I’m looking to collaborate working on a variety of technologies including AWS, Azure, Google cloud, Data Science, Web Development.
-- 💬 Ask me about anything in Cloud deployment and automation.
-- 📫 You can reach me on aasaoluwagbemiga@gmail.com
-- I love playing Chess and creative art.
+- 👋 Hi, I’m **Daniel Aasa**  
+- 👀 **Exploring**: Generative AI, Machine Learning, Cloud Development, and Web Development.  
+- 🌱 **Currently Diving Into**: Building AI-powered cloud applications, automating workflows, and leveraging generative AI in various tech domains.  
+- 💻 **Core Tech Stacks**: AWS, Azure, GCP, Docker, Kubernetes, CI/CD pipelines, Linux, and Git.  
+- 🤝 **Collaboration Goals**: I’m eager to collaborate on generative AI, cloud automation, data-driven solutions, and web development projects.  
+- 💬 **Ask Me About**: Cloud deployment, automation, generative AI use cases, and building efficient workflows.  
+- ♟ **Interests**: Avid chess player with a love for creative art.  
+- 📫 **Contact**: Reach me at **aasaoluwagbemiga@gmail.com**  
 <!--
 **daniel-aasa/daniel-aasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
